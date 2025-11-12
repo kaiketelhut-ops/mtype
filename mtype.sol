@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-/// @title Abuze - example minimal contract to fix parser error
-contract Abuze {
+/// @title MType - minimal test provision contract
+contract MType {
     string public message;
 
     constructor(string memory _message) {
